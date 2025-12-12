@@ -1,0 +1,23 @@
+---
+title: "SNR-based parameter selection for bias-corrected kernel SVM in HDLSS"
+author:
+  - name: "Your Name"
+date: last-modified
+---
+
+## Abstract
+This paper proposes a new loss for selecting kernel parameters in HDLSS settings.
+
+## Method
+### Background
+- BC-SVM / RSVM framework (brief).
+
+### Proposed loss
+Define an SNR-type loss based on kernel block-constants and estimate it from data.
+
+## Experiments
+### Simulation
+### Real data
+
+## Reproducibility
+All results can be reproduced via `targets::tar_make()` and `quarto render`.
