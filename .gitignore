@@ -1,0 +1,22 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv
+renv/library/
+renv/staging/
+
+# targets
+_targets/
+_pipeline/
+*.tar.gz
+
+# outputs / figures
+outputs/
+analysis/figures/
+analysis/tables/
+
+# data
+data/raw/
+data/external/
