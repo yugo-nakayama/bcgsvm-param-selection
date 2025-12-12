@@ -1,0 +1,22 @@
+project:
+  type: manuscript
+
+manuscript:
+  article: analysis/paper/index.qmd
+
+format:
+  html: default
+  pdf: default
+
+bibliography: analysis/paper/references.bib
+project:
+  type: manuscript
+
+manuscript:
+  article: analysis/paper/index.qmd
+
+format:
+  html: default
+  pdf: default
+
+bibliography: analysis/paper/references.bib
